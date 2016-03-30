@@ -1,0 +1,26 @@
+<!-- 
+  menzil logo
+  Design By AJI
+  Coding By Anwer
+  version: 2.0
+  2016-03-30 22:45:41
+ -->
+<svg xmlns="http://www.w3.org/2000/svg"  width="520px" height="520px" version="1.1">
+<!-- black -->
+<!--外部矩形-->
+  <path d="M0 0 h147 v147 h-147 v-147" stroke="#2E2E2E" fill="#2E2E2E" stroke-width="1" />
+ <!--圆-->
+  <circle cx="72" cy="74" r="68" fill="white"/>
+  <!--里面的图形-->
+  <path d="M46.5 19
+           L 72 46
+           L 74 46
+           L 97 19             
+           A 60 60 0 0 1 109 121
+           L 91 88
+           L 82 102
+           L 63 69
+           L 35 121                                 
+           A 60 60 0 0 1 47 19
+" stroke="#2E2E2E" fill="#2E2E2E" stroke-width="1" />
+</svg>
