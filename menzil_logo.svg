@@ -5,7 +5,7 @@
   version: 2.0
   2016-03-30 22:45:41
  -->
-<svg xmlns="http://www.w3.org/2000/svg"  width="520px" height="520px" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg"  width="150px" height="150px" version="1.1">
 <!-- black -->
 <!--外部矩形-->
   <path d="M0 0 h147 v147 h-147 v-147" stroke="#2E2E2E" fill="#2E2E2E" stroke-width="1" />
